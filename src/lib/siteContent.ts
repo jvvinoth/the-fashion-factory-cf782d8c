@@ -170,7 +170,9 @@ export const siteContent = {
     heading: "Let's Create Something Yours",
     subtext: "Ready to browse our collection or start a custom order? Connect with us on WhatsApp.",
     ctaText: "Message Us on WhatsApp",
-    whatsappNumber: "+1234567890",
+    whatsappNumber: "+917550291783",
+    email: "hello@mybrand.com",
+    phone: "917550291783",
   },
   
   footer: {
